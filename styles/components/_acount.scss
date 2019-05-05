@@ -1,0 +1,129 @@
+.acount {
+    &__title {
+        font-weight: bold;
+        font-size: 22pt;
+        margin-top: 24px;
+        margin-left: 16px;
+    }
+
+    &__profil {
+        height: 119px;
+        margin-top: 32px;
+        display: flex;
+
+        &-img {
+            display: block;
+            padding-top: 6px;
+            margin-left: 16px;
+            width: 30%;
+        }
+
+        &-content {
+            width: 40%;
+            margin-left: 40px;
+
+            &-name {
+                font-weight: bold;
+                font-size: 18pt;
+                padding-top: 8px;
+            }
+
+            &-phone {
+                font-weight: 300;
+                font-size: 14pt;
+                padding-top: 8px;
+            }
+
+            &-modif {
+                font-weight: bold;
+                font-size: 18px;
+                color: rgb(72, 190, 51);
+                margin-left: 13px;
+                display: inline-block;
+                margin-top: 8px;
+            }
+        }
+    }
+
+    &__titlebis {
+        margin-top: 32px;
+        margin-left: 16px;
+        font-size: 18px;
+        font-weight: 600;
+    }
+
+    &__general {
+        width: 343px;
+        height: 178px;
+        background: white;
+        border-radius: 5px;
+        box-shadow: 2pt 2pt 5pt 0pt lightgrey;
+        margin: 16px auto;
+        flex-wrap: wrap;
+
+        &-content {
+            width: 175px;
+            height: 15px;
+            display: inline-flex;
+            padding: 8px;
+            margin-top: 16px;
+
+            &-img {
+                width: 8%;
+            }
+
+            &-desc {
+                font-weight: 300;
+                font-size: 16px;
+                margin-left: 16px;
+                margin-top: -3px;
+                text-decoration: none;
+                font-style: none;
+                color: black;
+            }
+        }
+
+        &-line {
+            width: 311;
+            border: 0.5px solid lightgrey;
+            margin: 0 auto;
+        }
+    }
+
+    &__titlebis2 {
+        margin-top: 16px;
+        margin-left: 16px;
+        font-weight: 600;
+        font-size: 18px;
+    }
+
+    &__notif {
+        width: 343px;
+        height: 113px;
+        background: white;
+        box-shadow: 2pt 2pt 5pt 0pt lightgrey;
+        margin: 16px auto;
+        border-radius: 5px;
+        display: flex;
+
+        &-desc {
+            margin-top: 2px;
+            margin-left: 16px;
+            line-height: 57px;
+
+            &-text {
+                font-weight: 300;
+                font-size: 16px;
+            }
+        }
+
+        &-icon {
+            width: 20%;
+            margin-left: 120px;
+            display: flex;
+            flex-wrap: wrap;
+            line-height: 40px;
+        }
+    }
+
+}

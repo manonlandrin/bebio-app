@@ -1,0 +1,62 @@
+.navbar {
+    
+
+    &__container {
+        background: #ffffff;
+        height: 74px;
+        display: flex;
+        bottom: 0;
+        position: fixed;
+        box-shadow: 2px 2px 5px 0px lightgrey;
+
+
+
+        &-content {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            width: 20%;
+            margin-left: 8pt;
+            padding: 2pt;
+
+
+            &-link {
+                display: block;
+                margin: 0 auto;
+
+
+                &-icon {
+                    width: 45%;
+                    display: block;
+                    margin: 0 auto;
+
+
+
+                    &--size {
+                        width: 50%;
+                        display: block;
+                        margin: 2pt auto;
+                    }
+                }
+            }
+
+
+            &-desc {
+                font-weight: 300;
+                font-size: 14pt;
+                text-align: center;
+
+
+                &--color {
+                    font-weight: 300;
+                    font-size: 14pt;
+                    text-align: center;
+                    color: rgb(72, 190, 51);
+
+                }
+            }
+
+        }
+    }
+
+}

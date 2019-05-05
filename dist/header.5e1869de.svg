@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="343" height="35.786" viewBox="0 0 343 35.786">
+  <g id="header" transform="translate(-24 -6.214)">
+    <g id="reseaux" transform="translate(281.813 15.007)">
+      <g id="Groupe_39" data-name="Groupe 39" transform="translate(0 0)">
+        <g id="Groupe_38" data-name="Groupe 38" transform="translate(0 0)">
+          <path id="Tracé_102" data-name="Tracé 102" d="M8.743,71.068a.341.341,0,0,0,.342-.342V67.083a.341.341,0,0,0-.342-.342h-3.4A.341.341,0,0,0,5,67.083v3.643a.341.341,0,0,0,.342.342Z" transform="translate(-5 -55.812)"/>
+          <path id="Tracé_103" data-name="Tracé 103" d="M31.839,56.237a.341.341,0,0,0,.342-.342V48.609a.341.341,0,0,0-.342-.342h-3.4a.341.341,0,0,0-.342.342V55.9a.341.341,0,0,0,.342.342Z" transform="translate(-23.541 -40.982)"/>
+          <path id="Tracé_104" data-name="Tracé 104" d="M51.192,30.41V41.285a.341.341,0,0,0,.342.342h3.4a.341.341,0,0,0,.342-.342V30.41a.341.341,0,0,0-.342-.342h-3.4A.341.341,0,0,0,51.192,30.41Z" transform="translate(-42.083 -26.371)"/>
+          <path id="Tracé_105" data-name="Tracé 105" d="M74.628,26.576h3.4a.341.341,0,0,0,.342-.342V11.662a.341.341,0,0,0-.342-.342h-3.4a.341.341,0,0,0-.342.342V26.234A.341.341,0,0,0,74.628,26.576ZM74.97,12h2.718V25.893H74.97Z" transform="translate(-60.623 -11.321)"/>
+        </g>
+      </g>
+    </g>
+    <g id="wifi" transform="translate(310.103 15.007)">
+      <path id="Tracé_106" data-name="Tracé 106" d="M256.105,354.821a3.425,3.425,0,0,0-2.393.971c-.055.053-.108.108-.16.165l2.478,2.478,2.556-2.556c-.053-.055-.108-.108-.163-.16A3.433,3.433,0,0,0,256.105,354.821Z" transform="translate(-245.325 -343.179)"/>
+      <path id="Tracé_107" data-name="Tracé 107" d="M188.077,252.74a9.228,9.228,0,0,0-6.511,2.682c-.055.053-.108.108-.16.163l2.267,2.267c.05-.055.105-.112.16-.165a6.038,6.038,0,0,1,8.41-.071c.055.05.11.1.163.158l2.267-2.265c-.053-.055-.108-.108-.163-.16A9.218,9.218,0,0,0,188.077,252.74Z" transform="translate(-177.296 -246.925)"/>
+      <path id="Tracé_108" data-name="Tracé 108" d="M130.744,155.173a15.052,15.052,0,0,0-21.167.073c-.055.055-.108.108-.158.163l2.265,2.265c.053-.055.108-.11.16-.16a11.848,11.848,0,0,1,16.632-.076c.055.053.11.105.163.16l2.267-2.267C130.851,155.278,130.8,155.223,130.744,155.173Z" transform="translate(-109.419 -150.86)"/>
+    </g>
+    <g id="batterie" transform="translate(331.214 6.214)">
+      <g id="Livello_2" data-name="Livello 2">
+        <g id="Groupe_40" data-name="Groupe 40">
+          <rect id="Rectangle_27" data-name="Rectangle 27" width="35.786" height="35.786" fill="none"/>
+          <path id="Tracé_109" data-name="Tracé 109" d="M28.2,27.315H10.309a.567.567,0,0,1-.559-.559V17.809a.567.567,0,0,1,.559-.559H28.2a.567.567,0,0,1,.559.559v8.946A.567.567,0,0,1,28.2,27.315ZM10.868,26.2H27.643V18.368H10.868Z" transform="translate(-2.481 -4.389)"/>
+          <path id="Tracé_110" data-name="Tracé 110" d="M36.546,25.842H34.309a.567.567,0,0,1-.559-.559V20.809a.567.567,0,0,1,.559-.559h2.237a.567.567,0,0,1,.559.559v4.473A.567.567,0,0,1,36.546,25.842Zm-1.677-1.118h1.118V21.368H34.868Z" transform="translate(-8.588 -5.153)"/>
+          <rect id="Rectangle_28" data-name="Rectangle 28" width="14.98" height="5.964" transform="translate(9.409 14.911)"/>
+        </g>
+      </g>
+    </g>
+    <text id="_14:10" data-name="14:10" transform="translate(24 31)" font-size="18" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">14:10</tspan></text>
+  </g>
+</svg>

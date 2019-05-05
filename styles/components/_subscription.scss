@@ -1,0 +1,161 @@
+.subscription {
+
+
+    &__title {
+        font-weight: bold;
+        font-size: 22pt;
+        margin-top: 24px;
+        margin-left: 16px;
+    }
+
+    &__profil {
+        height: 119px;
+        margin-top: 32px;
+        display: flex;
+
+        &-img {
+            display: block;
+            padding-top: 6px;
+            margin-left: 16px;
+            width: 30%;
+        }
+
+        &-content {
+            width: 40%;
+            margin-left: 40px;
+
+            &-name {
+                font-weight: bold;
+                font-size: 18pt;
+                padding-top: 8px;
+            }
+
+            &-phone {
+                font-weight: 300;
+                font-size: 14pt;
+                padding-top: 8px;
+            }
+
+            &-modif {
+                font-weight: bold;
+                font-size: 18px;
+                color: rgb(72, 190, 51);
+                margin-left: 13px;
+                display: inline-block;
+                margin-top: 8px;
+            }
+        }
+    }
+
+    &__titlebis {
+        margin-top: 32px;
+        margin-left: 16px;
+        font-weight: 600;
+        font-size: 18px;
+    }
+
+    &__link {
+        margin-top: 16px;
+        display: inline-block;
+        margin-left: 16px;
+        font-size: 16px;
+        font-weight: 600;
+        color: rgb(72, 190, 51);
+    }
+
+    &__container {
+        background: white;
+        width: 343px;
+        height: 287px;
+        margin: 8px auto;
+        border-radius: 5px;
+        box-shadow: 2pt 2pt 5pt 0pt lightgrey;
+        display: flex;
+
+
+        &-content {
+            width: 298px;
+            height: 96px;
+            display: flex;
+            flex-wrap: wrap;
+            margin-top: 8px;
+            margin-left: 8px;
+
+            &-items {
+                display: flex;
+
+                &-desc {
+                    font-weight: 300;
+                    font-size: 16px;
+                }
+
+                &-link {
+                    font-weight: 300;
+                    font-size: 16px;
+                    color: rgb(72, 190, 51);
+                    display: inline-block;
+                    margin-left: 8px;
+
+                    &--marge {
+                        font-weight: 300;
+                        font-size: 16px;
+                        color: rgb(72, 190, 51);
+                        display: inline-block;
+                        margin-left: 73px;
+                    }
+
+                    &--marge2 {
+                        font-weight: 300;
+                        font-size: 16px;
+                        color: rgb(72, 190, 51);
+                        display: inline-block;
+                        margin-left: 34px;
+                    }
+                }
+
+                &-img {
+                    width: 9%;
+                    height: 45%;
+                    margin-left: 8px;
+                }
+            }
+
+            &-cancel {
+                display: inline-block;
+                margin: 8px auto;
+                font-weight: 600;
+                color: rgb(72, 190, 51);
+                font-size: 16px;
+            }
+        }
+
+        &-detail {
+            font-weight: 600;
+            font-size: 16px;
+        }
+
+        &-ingredient {
+            width: 322px;
+            height: 71px;
+            margin-top: 16px;
+            margin-left: 16px;
+            display: flex;
+
+            &-content {
+                padding-right: 8px;
+
+                &-desc {
+                    font-weight: 300;
+                    font-size: 16px;
+                }
+            }
+        }
+    }
+
+    &__info {
+        font-style: italic;
+        font-size: 16px;
+        font-weight: 300;
+        margin-left: 16px;
+    }
+}

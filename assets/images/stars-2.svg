@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="73.418" height="15.785" viewBox="0 0 73.418 15.785">
+  <g id="stars-2" transform="translate(-173 -698)">
+    <path id="star" d="M8.3,10.441l2.564,5.2,5.735.833-4.149,4.045.979,5.711L8.3,23.53l-5.129,2.7.98-5.711L0,16.47l5.734-.833Z" transform="translate(173 687.559)" fill="#fac917"/>
+    <path id="star-2" data-name="star" d="M8.3,10.441l2.564,5.2,5.735.833-4.149,4.045.979,5.711L8.3,23.53l-5.129,2.7.98-5.711L0,16.47l5.734-.833Z" transform="translate(191.383 687.559)" fill="#fac917"/>
+    <path id="star-3" data-name="star" d="M8.3,10.441l2.564,5.2,5.735.833-4.149,4.045.979,5.711L8.3,23.53l-5.129,2.7.98-5.711L0,16.47l5.734-.833Z" transform="translate(210.602 687.559)" fill="#c3c3c3"/>
+    <path id="star-4" data-name="star" d="M8.3,10.441l2.564,5.2,5.735.833-4.149,4.045.979,5.711L8.3,23.53l-5.129,2.7.98-5.711L0,16.47l5.734-.833Z" transform="translate(229.82 687.559)" fill="#c3c3c3"/>
+  </g>
+</svg>
